@@ -1,0 +1,5 @@
+<mod displayName="Skynkraft" unique="PSI_113_SkinpaintMod" description="Skynkraft adds a variety of new paints to the Creature Editor." installerSystemVersion="1.0.1.0" hasCustomInstaller="false" dllsBuild="2.5.20">
+	<prerequisite game="GalacticAdventures">!PSI-113_Skynkraft_v2-5-5.package</prerequisite>
+	<remove game="GalacticAdventures">*PSI-113_Skynkraft*</remove>
+	<remove game="GalacticAdventures">*PSI-113_Skyncraft*</remove>
+</mod>
